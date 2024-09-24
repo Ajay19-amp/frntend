@@ -1,0 +1,10 @@
+git add .
+
+to check the current status of git
+git status
+
+to commit the changes and bind a commit message
+git commit -m "Commit Message"
+
+to push code to remote repository
+git push
